@@ -2,6 +2,9 @@
 
 This project demonstrates how to deploy a highly available EKS (Elastic Kubernetes Service) cluster on AWS using Terraform. The deployment process integrates with HashiCorp Vault to securely manage AWS credentials. This guide provides a step-by-step setup of the VPC, EKS cluster, IAM roles, and how to retrieve Kubernetes configuration securely.
 
+You can find my Medium Article about my project here:
+https://medium.com/@fenari.kostem/deploying-a-secure-eks-cluster-with-terraform-and-vault-a-step-by-step-guide-4924e8a7e321
+
 ## Prerequisites
 
 1. [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
